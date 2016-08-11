@@ -2,13 +2,13 @@
 
 #Includes:
 
-#Memory Allocator in C
+##Memory Allocator in C
 
-#Paper on offensiveness detection
+##Paper on offensiveness detection
 
-#Language models for class
+##Language models for class
 
-#Spamlord - finds hidden emails (doesn't actually spam them)
+##Spamlord - finds hidden emails (doesn't actually spam them)
 
 
 
